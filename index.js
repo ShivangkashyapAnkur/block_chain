@@ -52,5 +52,5 @@ app.post("/vote", async (req, res) => {
 });
 
 app.listen(port, function () {
-    console.log("App is listening on port 3000")
+    console.log("App is listening on port 4000")
 });
